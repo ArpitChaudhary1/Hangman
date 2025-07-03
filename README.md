@@ -1,13 +1,13 @@
 # 🎯 Hangman Game (Python)
 
 Welcome to the **Hangman Game**, a classic word-guessing game built using Python!  
-This is a beginner-level console game where the player tries to guess a randomly selected word one letter at a time before running out of lives.
+This is a beginner-level console game where the player attempts to guess a randomly selected word one letter at a time before exhausting their lives.
 
 
 
 ## 🚀 About the Project
 
-I am in my learning phase of Python and I created this basic game to increase my skill in Python.  
+I am in the learning phase of Python, and I created this basic game to enhance my skills in Python.  
 The game reads from a large word list and provides an engaging experience using simple ASCII art to represent each stage of the game.  
 It was a great way for me to apply concepts like file handling, loops, conditionals, and list manipulation in Python.
 
@@ -24,4 +24,8 @@ It was a great way for me to apply concepts like file handling, loops, condition
 ---
 
 ## 📁 Project Structure
+hangman/
+├── hangman.py       # Main game logic
+├── words.txt        # Word list
+└── README.md        # Project documentation
 
