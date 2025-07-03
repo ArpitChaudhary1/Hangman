@@ -25,7 +25,13 @@ It was a great way for me to apply concepts like file handling, loops, condition
 
 ## 📁 Project Structure
 hangman/
-├── hangman.py       # Main game logic
-├── words.txt        # Word list
-└── README.md        # Project documentation
-
+├── src/ # Source code
+│ └── hangman.py # Main game logic
+├── data/ # Supporting data
+│ └── words.txt # Word list used by the game
+├── assets/
+│ └── ascii_art.txt # ASCII art stages (optional)
+├── tests/
+│ └── test_hangman.py # Unit tests (if you add any)
+├── README.md # This documentation
+└── LICENSE # (Optional) License file, e.g. MIT
