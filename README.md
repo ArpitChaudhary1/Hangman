@@ -23,4 +23,5 @@ It was a great way for me to apply concepts like file handling, loops, condition
 
 ---
 📜 License
+---
 This project is open-source and free to use under the MIT License.
